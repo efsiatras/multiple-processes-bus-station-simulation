@@ -39,7 +39,7 @@ In order to execute Mystation, a configuration file is needed in the following f
 - **Main function for Comptroller**: comptroller.c
 - **Main function for Mystation**: mystation.c
 
-## Communication Protocol/Execution Path
+## Communication Protocol / Execution Path
 Mystation starts.  
 Mystation initializes shared memory and fork/exec* all other necessary processes (Station-Manager, Comptroller and many Buses).  
 Station-Manager, Comptroller are executed once by Mystation.  
