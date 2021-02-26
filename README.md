@@ -1,9 +1,8 @@
 # Bus Station Simulation with Multiple Processes
-A program simulating a bus station with multiple and different types of processes using semaphores and shared memory.
-
+A program simulating a bus station with multiple and different types of processes using semaphores and shared memory.  
 The main goal of this program implementation was to practice with **fork**, **exec**, **semaphores** and **shared memory segment**.
 
-## Diagram
+Here's how the bus station looks like:
 ![Diagram of bus station](https://siatras.dev/img/bus-station.jpg)
 
 ## Compilation
